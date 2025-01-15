@@ -1,8 +1,11 @@
 p {
 color: blue;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
 }
 title {
 color: brown;
+border: 100px;
 }
 h2{
 color: blueviolet;
